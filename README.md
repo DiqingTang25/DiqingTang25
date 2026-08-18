@@ -16,7 +16,7 @@
 
 **结果**:已上线 [labnote.tech](https://labnote.tech),真实课题组内测走通全链路;2026 金鸡湖创新创业大赛 OPC 专场 · 思必驰"智会未来"OPC 创新大赛二等奖、新锐木兰奖、Eazo 全球青年黑客松入围全球总决赛、2026 人工智能产品应用博览会受邀展商。
 
-源码:[github.com/DiqingTang25/labnote-agent](https://github.com/DiqingTang25/labnote-agent) · 技术:React 19 SSR · PostgreSQL + pgvector · RAG · MCP
+源码:[github.com/DiqingTang25/labnote-agent](https://github.com/DiqingTang25/labnote-agent) · 技术:React 19 SSR · PostgreSQL + pgvector · RAG · MCP(8 个对外开放工具)
 
 ### AI Agent 全自动化测评系统:用 Agent 给 Agent 打分
 
@@ -41,7 +41,7 @@
 ## 其他作品
 
 - **SurfMate 智能科研助手** —— 三个科研场景 Agent 模块,两千余条结构化 QA 库,来源标注 + "不确定即明说"抑制科研幻觉
-- **GPS 轨迹筛查举报系统** —— 纯 NumPy 双尺度 DBSCAN + LightGBM 嫌疑置信度,独立验证集 Top-1 95%
+- **GPS 轨迹筛查举报系统** —— 纯 NumPy 双尺度 DBSCAN + LightGBM 嫌疑置信度,14,000+ 条标注样本训练,独立验证集 Top-1 95%(Top-3 100%)
 - **MaestroZoo** —— AR 手势指挥动物乐团的节奏游戏(Rokid 眼镜)
 - **aromaX** —— AI 中药香薰配方系统
 
@@ -50,10 +50,6 @@
 - ⚡ 交付速度:合规领航员 Agent 两周从零到全国一等奖;LabNote 两个月从零到上线(82 次提交)
 - 🧰 日常装备:WSL + Linux、SSH、GitHub Actions CI、Docker、Playwright E2E
 - 🤝 **正在找**:一起打黑客松、一起做 AI for Science 的伙伴。如果你也在做可信 AI、科研工具或 Agent 基础设施,直接邮件我
-
-## 一些数字
-
-独立验证集 Top-1 95%(Top-3 100%)· 14,000+ 条标注样本 · 8 个对外开放的 MCP 工具 · 两千余条结构化 QA 库
 
 ## 技术栈
 
