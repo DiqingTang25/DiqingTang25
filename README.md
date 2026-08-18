@@ -14,7 +14,7 @@
 
 **我的做法**:多模态大模型解析散乱文件 → 结构化实验卡片(逐字段置信度 + 来源标注)→ 自动生成分步复现协议与审计报告。
 
-**结果**:已上线 [labnote.tech](https://labnote.tech),真实课题组内测走通全链路;2026 OPC 创新大赛二等奖、新锐木兰奖、Eazo 全球青年黑客松入围全球总决赛、智博会受邀展商。
+**结果**:已上线 [labnote.tech](https://labnote.tech),真实课题组内测走通全链路;2026 金鸡湖创新创业大赛 OPC 专场 · 思必驰"智会未来"OPC 创新大赛二等奖、新锐木兰奖、Eazo 全球青年黑客松入围全球总决赛、2026 人工智能产品应用博览会受邀展商。
 
 源码:[github.com/DiqingTang25/labnote-agent](https://github.com/DiqingTang25/labnote-agent) · 技术:React 19 SSR · PostgreSQL + pgvector · RAG · MCP
 
