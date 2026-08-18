@@ -14,6 +14,8 @@
 - 📦 **源码**:https://github.com/DiqingTang25/labnote-agent
 - 🛠 React 19 SSR · PostgreSQL + pgvector · RAG 混合检索 · FastAPI 设备网关 · MCP(8 个治理工具)
 - 🏆 2026 金鸡湖创新创业大赛 OPC 专场 · 思必驰"智会未来"OPC 创新大赛 **二等奖**(全栈开发、Agent 架构)
+- 🏅 **新锐木兰奖**
+- 🚀 Eazo 全球青年黑客松 · **入围全球总决赛**(上海复赛晋级)
 - 📢 2026 人工智能产品应用博览会 · OPC 能量场 **受邀展商**(现场发布)
 
 ### 🤖 AI Agent 全自动化测评系统
